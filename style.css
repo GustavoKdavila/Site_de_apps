@@ -1,0 +1,18 @@
+#apps
+{background-color: lightblue;}
+#games
+{background-color:rgb(103, 133, 160);}
+.line
+{height: 6px;
+background-color: #000;
+width: 70px;
+margin: 8px auto;}
+#meucarrosel
+{background-color: rgb(171, 238, 250);}
+#meucarrosel img
+{height: 300px;
+margin-top: 35px;}
+.carousel-inner p
+{margin-top: 15px;
+color: rgb(102, 102, 187);
+font-size: 20px;}
